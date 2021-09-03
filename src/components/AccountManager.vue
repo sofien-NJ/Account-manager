@@ -7,7 +7,7 @@
       vertical
       style="max-width: 120px;"
     >
-      <v-tabs-slider></v-tabs-slider>
+      <v-tabs-slider> </v-tabs-slider>
 
       <v-tab key="#profile">
         Profile
